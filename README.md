@@ -14,38 +14,38 @@ Node.js
 
 O site aproveita componentes reutilizáveis, propriedades (props) para fornecer diferentes informações aos mesmos componentes e hooks para consumir APIs, como a MockAPI, utilizados em componentes como os cards.
 
-├── src/
-│   └── assets/
-│       ├── favicon/
-│       └── img/
-│   ├── components/
-│       ├── CardDestaque/
-│       ├── Cards/
-│       ├── Carousel/
-│       ├── CarouselMenor/
-│       ├── Destaque/
-│       ├── Footer/
-│       ├── Header/
-│       ├── HeaderMenor/
-│       ├── IconDestaque/
-│       └── Main/
-│   └── pages/
-│       ├── CartPage/
-│       ├── ConfirmarCompraPage/
-│       ├── CriarContaPage/
-│       ├── CriarFormularioPage/
-│       ├── Error404/
-│       ├── HomePage/
-│       ├── InformacoesPage/
-│       ├── LoginPage/
-│       ├── PaginaDeSucessoPage/
-│       ├── PedidosPage/
-│       ├── ProductListingPage/
-│       └── ProductViewPage/
-├── App.css
-├── App.jsx
-├── Main.jsx
-└── index.html
+	├── src/
+	│   └── assets/
+	│       ├── favicon/
+	│       └── img/
+	│   ├── components/
+	│       ├── CardDestaque/
+	│       ├── Cards/
+	│       ├── Carousel/
+	│       ├── CarouselMenor/
+	│       ├── Destaque/
+	│       ├── Footer/
+	│       ├── Header/
+	│       ├── HeaderMenor/
+	│       ├── IconDestaque/
+	│       └── Main/
+	│   └── pages/
+	│       ├── CartPage/
+	│       ├── ConfirmarCompraPage/
+	│       ├── CriarContaPage/
+	│       ├── CriarFormularioPage/
+	│       ├── Error404/
+	│       ├── HomePage/
+	│       ├── InformacoesPage/
+	│       ├── LoginPage/
+	│       ├── PaginaDeSucessoPage/
+	│       ├── PedidosPage/
+	│       ├── ProductListingPage/
+	│       └── ProductViewPage/
+	├── App.css
+	├── App.jsx
+	├── Main.jsx
+	└── index.html
 
 Paleta de Cores : 
 
